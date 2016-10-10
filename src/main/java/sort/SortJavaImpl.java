@@ -1,6 +1,6 @@
 package sort;
 
-public class Sorting {
+public class SortJavaImpl {
 
     public int[] bubbleSort(int[] array) {
         boolean swap = true;

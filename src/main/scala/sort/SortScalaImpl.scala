@@ -1,7 +1,7 @@
 package sort
 
-object BubbleSort {
-  def apply(array: Array[Int]): Array[Int] = {
+object SortScalaImpl {
+  def bubbleSort(array: Array[Int]): Array[Int] = {
     var swap = true
 
     while (swap) {
